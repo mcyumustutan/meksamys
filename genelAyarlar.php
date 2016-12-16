@@ -26,9 +26,9 @@ $ProjeVersion = "0.5";
 
 
 	define('DB_HOST', 'localhost');
-    define('DB_USER', 'mehmetca_root'); 
-    define('DB_PASSWORD', '4ceef9c03');
-    define('DB_DATABASE', 'mehmetca_meksa');
+    define('DB_USER', 'root'); 
+    define('DB_PASSWORD', '');
+    define('DB_DATABASE', 'meksa');
 
 
 	$VeritabaninaBaglan = mysql_connect(DB_HOST, DB_USER, DB_PASSWORD);
