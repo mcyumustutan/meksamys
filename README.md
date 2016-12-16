@@ -1,14 +1,23 @@
-# meksamys
-Meksa MYS Müşteri Yönetim Sistemi
+# Meksa MYS Müşteri Yönetim Sistemi
 
+### Nedir
 Bu porjeyi üniversitede öğrenciyken, ekip arkadaşlarım ile beraber Web Projesi Yönetimi dersi için hazırlamıştık.
 
 Bootstrap v2 ve saf PHP ile (spaghetti) yazdım.
 
+## Kurulum
 Localde yada hostingde kurulumu son derece basittir.
-Ana dizindeki genelAyarlar.php dosyasından veritabanı bağlantı bilgilerini ayarlayabilirsiniz
+Ana dizindeki 
+```html
+genelAyarlar.php 
+```
+dosyasından veritabanı bağlantı bilgilerini ayarlayabilirsiniz
 
-Ana dizindeki how-to-install/SQL/meksa-mys.sql dosyasını kendi veritabanınıza yükleyin. (phpMyAdminde içe aktar.)
+Ana dizindeki 
+```html
+how-to-install/SQL/meksa-mys.sql 
+```
+dosyasını kendi veritabanınıza yükleyin. (phpMyAdminde içe aktar.)
 
 Hepsi bu.
 
@@ -18,7 +27,7 @@ Başlangıç için insanların inceleyebileceği bir sistem olduğunu düşünü
 
 Yararlı olması dileğiyle..
 
-#LİSANS
+#Lisans
 
 Telif Hakkı (c) 1998, 1999, 2000 Thai Açık Kaynak Yazılım Merkezi Ltd.
 
@@ -28,7 +37,7 @@ Yukarıdaki telif hakkı bildirimi ve işbu izin bildirimi yazılımın tüm kop
 
 YAZILIM “HİÇBİR DEĞİŞİKLİK YAPILMADAN” ESASINA BAĞLI OLARAK, TİCARETE ELVERİŞLİLİK, ÖZEL BİR AMACA UYGUNLUK VE İHLAL OLMAMASI DA DAHİL VE BUNUNLA KISITLI OLMAKSIZIN AÇIKÇA VEYA ÜSTÜ KAPALI OLARAK HİÇBİR TEMİNAT OLMAKSIZIN SUNULMUŞTUR. HİÇBİR KOŞULDA YAZARLAR VEYA TELİF HAKKI SAHİPLERİ HERHANGİ BİR İDDİAYA, HASARA VEYA DİĞER YÜKÜMLÜLÜKLERE KARŞI, YAZILIMLA VEYA KULLANIMLA VEYA YAZILIMIN BAŞKA BAĞLANTILARIYLA İLGİLİ, BUNLARDAN KAYNAKLANAN VE BUNLARIN SONUCU BİR SÖZLEŞME DAVASI, HAKSIZ FİİL VEYA DİĞER EYLEMLERDEN SORUMLU DEĞİLDİR.
 
-#LICENSE
+#License
 Copyright (c) 1998, 1999, 2000 Thai Open Source Software Center Ltd
 
 Permission is hereby granted, free of charge, to any person obtaining
